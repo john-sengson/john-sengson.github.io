@@ -5,14 +5,22 @@ body {
 h1 {
     text-align: center;
 }
-h2 {
+img {
     text-align: center;
+    height:500px;
+    width:500px;
 }
 p {
     text-align: center;
 }
-#home-navi {
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #home-navi {
     text-align: center;
-}
+
 }
 </style>
