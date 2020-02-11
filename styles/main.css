@@ -2,32 +2,31 @@
 link href="https://fonts.googleapis.com/css?family=Handlee|Special+Elite&display=swap" rel="stylesheet">
 <style>
 
-body {
-    background-color: burlywood;
-}
 
 h1 {
     text-align: center;
     font-size: 100px;
     font-family: 'Special Elite', cursive;
+    color: blue;
 }    
 
 h2 {
     text-align: center;
     font-size:50px;
     font-family: 'Special Elite', cursive; 
-    
+    color: blue;
 }
 p {
     text-align: center;
     font-size: 25px;
     font-family: 'Handlee', cursive;  
-    color: blue;
+    color: yellowgreen;
 }
 #home-navi {
     text-align: center;
     font-size: 50px;
-    font-family: 'Handlee', cursive;  
+    font-family: 'Handlee', cursive; 
+    color: black; 
     
 }
 .center {
