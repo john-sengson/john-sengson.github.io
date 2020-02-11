@@ -4,7 +4,7 @@ link href="https://fonts.googleapis.com/css?family=Handlee|Special+Elite&display
 
 body {
     background-color: beige;
-    
+ 
 }
 h1 {
     text-align: center;
@@ -23,7 +23,7 @@ p {
     text-align: center;
     font-size: 25px;
     font-family: 'Handlee', cursive;  
-    color: yellowgreen;
+    color: purple;
 }
 #home-navi {
     text-align: center;
