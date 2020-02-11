@@ -2,7 +2,10 @@
 link href="https://fonts.googleapis.com/css?family=Handlee|Special+Elite&display=swap" rel="stylesheet">
 <style>
 
-
+body {
+    background-color: beige;
+    
+}
 h1 {
     text-align: center;
     font-size: 100px;
