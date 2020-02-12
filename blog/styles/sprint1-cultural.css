@@ -1,25 +1,39 @@
-
 body {
-    background-image: url('/images/textures/light1a.png');
+    background-color: orange;
+}
+#home-navi {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Handlee', cursive; 
+    color: white; 
 }
 h1 {
     text-align: center;
+    font-size: 70px;
+    
 }
-img {
-    text-align: center;
-    height:500px;
-    width:500px;
+h2 {
+   font-size: 45px;
 }
-p {
-    text-align: center;
+h3 { 
+    font-size: 45px;
 }
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-  #home-navi {
-    text-align: center;
-
+.question {
+   font-weight: bold;
+   font-size: 25px;
+}
+.answer {
+    font-style: italic;
+    font-size: 25px;
+}
+.core1 {
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color: darkgrey;
+}
+.core2 {
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color: darkgrey;
+}
 }
