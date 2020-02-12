@@ -10,30 +10,50 @@ body {
 h1 {
     text-align: center;
     font-size: 70px;
+    font-family: 'Permanent Marker', cursive;
     
 }
 h2 {
    font-size: 45px;
+   border: 5px solid red;
+    border-radius: 12px;
+    background-color: red;
+    font-family: 'Permanent Marker', cursive;
 }
+
 h3 { 
     font-size: 45px;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color: red;
+    font-family: 'Permanent Marker', cursive;
 }
+
 .question {
    font-weight: bold;
    font-size: 25px;
+   border: 5px solid red;
+    border-radius: 12px;
+    background-color: yellow;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .answer {
     font-style: italic;
     font-size: 25px;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color: orange;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .core1 {
     border: 5px solid red;
     border-radius: 12px;
     background-color: darkgrey;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .core2 {
     border: 5px solid red;
     border-radius: 12px;
     background-color: darkgrey;
-}
+    font-family: 'Josefin Sans', sans-serif;
 }
