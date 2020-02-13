@@ -1,0 +1,14 @@
+.top-head {
+    border-style: solid;
+    border-color: red;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+  }
+  .title {
+    font-size: 60px;
+  }
+  .subtitle {
+    font-size: 40px;
+  }
