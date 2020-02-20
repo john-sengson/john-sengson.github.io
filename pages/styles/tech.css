@@ -29,7 +29,7 @@ h2 {
 }
 .main-pts {
     text-align: center;
-    font-size: 30px;
+    font-size: 45px;
     font-family: 'Indie Flower', cursive;
     font-weight: bold;
 }
@@ -54,6 +54,7 @@ p {
     background-color: white;
     color: red;
     text-align: center;
+    font-size: 10px;
 }
 #home-navi {
     text-align: center;
