@@ -45,3 +45,11 @@ p {
     border-style: solid;
 }
 
+#meta 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+}
+
+
