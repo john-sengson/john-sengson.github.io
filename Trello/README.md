@@ -23,5 +23,23 @@ This a demo. Line Completed by John
 * Add ability to remove an item
 * Add ability to add an item
 
+# Testing REST Web APIs routes
+
+## Agenda
+
+* Testing the requests and responses of the routes
+* Use `supertest` because it understands Express.js
+* Mock the database
+
+
+## Demo
+
+    npm install
+    npx knex migrate:latest
+    npx knex seed:run
+    npm test
+
+- Test the `POST /users` route
+
 
 The lines above are copied from the code in class lecture.
